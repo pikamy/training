@@ -15,6 +15,6 @@ public class Main {
         String fullMessage = message1 + message2 + message3;
         int length = fullMessage.length();
 
-        System.out.println("Łaczna liczba znaków wszystkich zdań wynosi: " + length);
+        System.out.println("Łaczna liczba znaków wszystkich zdań wynosi : " + length);
     }
 }
