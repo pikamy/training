@@ -41,7 +41,7 @@ public class Exercise1 {
         }
         catch (IllegalArgumentException exception){
 
-            System.out.println("Podana liczba nie jest liczbą");
+            System.out.println("Podana liczba nie jest liczbąsss");
 
         }
 
